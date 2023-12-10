@@ -41,7 +41,7 @@ def roll_dice(dice_notation):
 
 def main():
     while True:
-        user_input = input("Enter dice notation (e.g., '2d6' or '1d20+5'), or 'exit' to quit: ").lower()
+        user_input = input("Enter dice notation (e.g., '2d6' or '1d20+5'), 'quit' or 'exit' to quit: ").lower()
 
         if user_input in ['exit', 'quit']:
             break
