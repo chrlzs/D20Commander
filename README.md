@@ -12,7 +12,7 @@ python d20commander.py
 
 The program will prompt you to enter a dice notation (e.g., '2d6' or '1d20+5'). It will then simulate the dice rolls and display the results.
 
-Type 'exit' to quit the program.
+Type 'exit', 'quit', or press Ctrl+C to quit the program.
 
 ## Installation
 
@@ -32,7 +32,7 @@ python d20commander.py
 ## Example
 
 ```bash
-Enter dice notation (e.g., '2d6' or '1d20+5'), or 'exit' to quit: 2d6
+Enter dice notation (e.g., '2d6' or '1d20+5'), 'quit' or 'exit' to quit: 2d6
 Rolls: [4, 6]
 Total: 10
 ```
