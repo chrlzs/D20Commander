@@ -1,5 +1,9 @@
 # D20Commander
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![GitHub last commit](https://img.shields.io/github/last-commit/chrlzs/D20Commander)
+![GitHub contributors](https://img.shields.io/github/contributors/chrlzs/D20Commander)
+
 D20Commander is a command line tool for simulating dice rolls in tabletop roleplaying games, such as Dungeons and Dragons.
 
 ## Usage
